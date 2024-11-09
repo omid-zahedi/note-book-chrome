@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Note book",
+    "version": "1.0",
+    "description": "دفترچه یادداشت امید زاهدی.",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    }
+  }
+  

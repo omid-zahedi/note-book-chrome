@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
       li.dataset.id = note.id;
   
       const textPreview = document.createElement('span');
-      textPreview.textContent = note.text.length > 15 ? note.text.substring(0, 15) + '...' : note.text;
+      textPreview.textContent = note.text.length > 22 ? note.text.substring(0, 22) + '...' : note.text;
       textPreview.classList.add('note-preview');
   
       const buttonContainer = document.createElement('div');

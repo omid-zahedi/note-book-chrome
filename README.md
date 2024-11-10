@@ -1,7 +1,7 @@
 افزونه دفترچه یادداشت کروم ویندوز
 # دفترچه یادداشت - افزونه کروم
 
-![Screenshot](https://github.com/omid-zahedi/note-book-chrome/blob/main/Screenshot.png?raw=true)
+![Screenshot](https://github.com/omid-zahedi/note-book-chrome/blob/main/screenshot.png?raw=true)
 
 ## معرفی
 

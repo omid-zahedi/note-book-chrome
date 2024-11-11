@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
       buttonContainer.classList.add('note-buttons');
   
       const editButton = document.createElement('button');
-      editButton.textContent = 'Edit';
+      editButton.textContent = 'View';
       editButton.classList.add('edit-note');
       editButton.addEventListener('click', () => editNoteInModal(note));
   
